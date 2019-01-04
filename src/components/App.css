@@ -1,0 +1,82 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  margin: 0;
+  max-width: 100%;
+  background-color: #fff;
+
+}
+
+.pink {
+  color:#fc5277;
+  margin-right: 20px;
+}
+.purple {
+  color: #907dfc;
+}
+
+.button {
+  margin-right: 32px;
+  padding: 8px 24px;
+  border: 2px solid #907dfc;
+  border-radius: 45px;
+  background-color: transparent;
+  font-family: 'League Spartan', sans-serif;
+  color: #907dfc;
+  font-size: 14px;
+  line-height: 24px;
+
+}
+.w-button {
+  margin-left: 30px;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.title {
+  display: block;
+  background-color: transparent;
+  margin-top:100px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 72px;
+}
+
+.weather {
+  margin-top:40px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 40px;
+  line-height: 72px;
+  font-size: 40px;
+}
+
+.searchbox {
+  width: 400px;
+  height: 36px;
+  top: 10px;
+  margin: 0 auto;
+  border-radius: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px; 
+
+}
+
+.error {
+  margin-top: 35px;
+  margin-right: 60px;
+ font-size: 40px;
+}
+
+.result {
+  width: 40%;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 28%;
+  text-align: left;
+}
